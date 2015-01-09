@@ -1,0 +1,1 @@
+This is project exists only as a minimal testcase for a bug I've encountered.
